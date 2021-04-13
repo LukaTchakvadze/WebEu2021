@@ -1,0 +1,20 @@
+  
+body {
+    background-image: url(picture/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+}
+
+.img {
+    float: left;
+    width: 15%;
+    padding: 20px;
+    margin-left: 50px;
+}
+* {
+    box-sizing: border-box;
+}
